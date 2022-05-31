@@ -8,65 +8,65 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ASP.NET_Core
 build_property.RootNamespace = ASP.NET_Core
-build_property.ProjectDir = C:\Users\jpaya\OneDrive\Escritorio\Practice IE\ASP.NET Core\
+build_property.ProjectDir = c:\Users\jpaya\OneDrive\Escritorio\Practice IE\ASP.NET Core\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jpaya\OneDrive\Escritorio\Practice IE\ASP.NET Core
+build_property.MSBuildProjectDirectory = c:\Users\jpaya\OneDrive\Escritorio\Practice IE\ASP.NET Core
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Alumno/Index.cshtml]
+[c:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Alumno/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bW5vXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Alumno/MultiAlumno.cshtml]
+[c:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Alumno/MultiAlumno.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx1bW5vXE11bHRpQWx1bW5vLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Asignatura/Index.cshtml]
+[c:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Asignatura/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Asignatura/MultiAsignatura.cshtml]
+[c:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Asignatura/MultiAsignatura.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNpZ25hdHVyYVxNdWx0aUFzaWduYXR1cmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Escuela/Index.cshtml]
+[c:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Escuela/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjdWVsYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Home/Index.cshtml]
+[c:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Home/Privacy.cshtml]
+[c:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Shared/Error.cshtml]
+[c:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Shared/ObjetoEscuelaSimple.cshtml]
+[c:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Shared/ObjetoEscuelaSimple.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE9iamV0b0VzY3VlbGFTaW1wbGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Shared/Simple.cshtml]
+[c:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Shared/Simple.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFNpbXBsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/_ViewImports.cshtml]
+[c:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/_ViewStart.cshtml]
+[c:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Shared/_Layout.cshtml]
+[c:/Users/jpaya/OneDrive/Escritorio/Practice IE/ASP.NET Core/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k53p2nswt4
